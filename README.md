@@ -18,52 +18,11 @@ my true passion when it comes to software engineering. some of these project inv
 
 ## Portfolio Website
 
-This project byitself is pretty self explanitory. This is my 3rd and final Portfolio website that i've built for myself. I started by using html and css for a basic personal website. However, when I built more projects using react and JS I was able to come up with a portfolio website that had more aimaitions, more structure and overall better UI expereince. 
+This portfolio project allowed me to showcase my personal skills all one website while also using my skills to create a "Hub" that will hold all of my projects in one. makign this project it allowed me to reflect on my work and trully see what was important. It made me analyze and reflect on the struggles and learnign process that I need to make these projects come to live. This website/portfolio shows not only about me, but also how my projects have contributed to the common good. It shows my interests and what impacts I have made with these projects. Some of these projects have solved problems that needed to be solved and it cultivated to establishing a responsible leadership across all of my projects. Overall this website/portfolio gave me the ability to showcase my projects and demonstrarte to the world the types of impacts ive made and continue to make in the technological world as a computer science student. 
 
-### Frameworks & technicals 
 
-some of the frameworks I used were **Next.js**
-I used 2 main langueges **Typescript** for the the structure and the function handling & **CSS** for styling the webpage. 
-I also used **Vercel** for webhosting live
-
-### Usage 
-
-I use this website mostly for showcasing my skills on a personlaized webspage to recruiters and job postings. This project has helped me build web developing skills along with framework handling. 
-
-There is no installations required for this project, simply cliking on the live link hosted by Vercel, everyone with the link can see my Portfolio website.
-
-**Here is the Link** https://portfolio-jet-chi-54.vercel.app/ 
+## Mechanic Shop Database 
 
 
 
-
-
-## 🚀 Usage
-
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
-
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
-```
-
-
-## ⬇️ Installation
-
-Simple, understandable installation instructions!
-
-```bash
-pip install my-package
-```
-
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
-
-
-## 💭 Feedback and Contributing
-
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
+## Booking page 
