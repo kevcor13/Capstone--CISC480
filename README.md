@@ -1,8 +1,3 @@
-# Capstone--CISC480
-
-# 📦 My Package
-
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
 
 ## ℹ️ Overview
 
